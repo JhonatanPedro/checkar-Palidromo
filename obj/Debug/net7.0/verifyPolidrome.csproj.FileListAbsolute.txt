@@ -1,0 +1,14 @@
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\bin\Debug\net7.0\verifyPolidrome.exe
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\bin\Debug\net7.0\verifyPolidrome.deps.json
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\bin\Debug\net7.0\verifyPolidrome.runtimeconfig.json
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\bin\Debug\net7.0\verifyPolidrome.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\bin\Debug\net7.0\verifyPolidrome.pdb
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.AssemblyInfoInputs.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.AssemblyInfo.cs
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.csproj.CoreCompileInputs.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\refint\verifyPolidrome.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.pdb
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\verifyPolidrome.genruntimeconfig.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\verifyPolidrome\obj\Debug\net7.0\ref\verifyPolidrome.dll
